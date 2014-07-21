@@ -1,0 +1,18 @@
+#Organize Import Order
+#Mon Jul 21 16:38:06 CEST 2014
+9=\#javax
+8=\#java
+7=sk.stuba.fiit.perconik
+15=\#sk.stuba.fiit.perconik
+6=com.gratex.perconik
+14=\#com.gratex.perconik
+5=
+13=\#
+4=org.osgi
+12=\#org.osgi
+3=org.eclipse
+11=\#org.eclipse
+2=com.google
+10=\#com.google
+1=javax
+0=java
