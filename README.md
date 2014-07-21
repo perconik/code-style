@@ -8,6 +8,19 @@ guide.
 - Lines are not wrapped with exception to Javadoc text which wraps after 100 characters 
 - Override annotation does not apply to implementations of interface methods
 
+## Code Style Formatter Changes
+
+- Indentation - Tab Size - set to 2
+- Indentation - Align Fields in Columns - enabled
+
+- Blank Lines - Blank Lines in Compilation Unit - Between Class Declarations - set to 1
+- Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 0
+
+- New Lines - Insert New Line - In Empty Class Body - disabled
+- New Lines - Insert New Line - In Empty Block - disabled
+
+- Comments disabled
+
 ## Contributing
 
 1. Fork it
