@@ -19,7 +19,7 @@ guide.
 - New Lines - Insert New Line - In Empty Class Body - disabled
 - New Lines - Insert New Line - In Empty Block - disabled
 
-- Comments disabled
+- Comments - disabled
 
 ## Contributing
 
