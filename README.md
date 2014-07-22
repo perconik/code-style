@@ -11,13 +11,12 @@ guide.
 ## Code Style Formatter Changes
 
 - Indentation - Tab Size - set to 2
-- Indentation - Align Fields in Columns - enabled
 
 - Blank Lines - Blank Lines in Compilation Unit - Between Class Declarations - set to 1
-- Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 0
+- Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 1
 
-- New Lines - Insert New Line - In Empty Class Body - disabled
 - New Lines - Insert New Line - In Empty Block - disabled
+- New Lines - Insert New Line - In Empty Method Body - enabled
 
 - Comments - disabled
 
