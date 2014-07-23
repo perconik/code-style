@@ -12,6 +12,8 @@ guide.
 
 - Indentation - Tab Size - set to 2
 
+- White Space - Insert Space - Control Statements - For - Before Colon - disabled
+
 - Blank Lines - Blank Lines in Compilation Unit - Between Class Declarations - set to 1
 - Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 1
 
