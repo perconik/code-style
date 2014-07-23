@@ -19,7 +19,6 @@ guide.
 - Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 1
 
 - New Lines - Insert New Line - In Empty Block - disabled
-- New Lines - Insert New Line - In Empty Method Body - enabled
 
 - Comments - disabled
 
