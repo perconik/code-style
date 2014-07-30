@@ -11,17 +11,13 @@ guide.
 ## Code Style Formatter Changes
 
 - Indentation - Tab Size - set to 2
-
 - White Space - Insert Space - Declarations - Methods - Before Ellipsis in Vararg Parameters - enabled
 - White Space - Insert Space - Control Statements - For - Before Colon - disabled
 - White Space - Insert Space - Expressions - Operators - After Prefix Operators  - enabled
 - White Space - Insert Space - Expressions - Operators - Before Postfix Operators  - enabled
-
 - Blank Lines - Blank Lines in Compilation Unit - Between Class Declarations - set to 1
 - Blank Lines - Existing Blank Lines - Number of Empty Lines to Preserve - set to 1
-
 - New Lines - Insert New Line - In Empty Block - disabled
-
 - Comments - disabled
 
 ## Contributing
