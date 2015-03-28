@@ -1,7 +1,12 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 Pavol Zbell at Faculty of Informatics and Information
-Technologies, Slovak University of Technology in Bratislava
+Copyright (c) 2015 Faculty of Informatics and Information Technologies,
+Slovak University of Technology in Bratislava
+
+Acknowledgement. This Software is the partial result of the Research and
+Development Operational Programme for the project Research of methods for
+acquisition, analysis and personalized conveying of information and
+knowledge, ITMS 26240220039, co-funded by the ERDF.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
