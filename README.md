@@ -11,8 +11,6 @@ guide.
 ## Code Style Formatter Changes
 
 - Indentation - Tab Size - set to 2
-- White Space - Insert Space - Arrays - Array Initializers - After Opening Brace - enabled
-- White Space - Insert Space - Arrays - Array Initializers - Before Closing Brace - enabled
 - White Space - Insert Space - Control Statements - For - Before Colon - disabled
 - White Space - Insert Space - Declarations - Methods - Before Ellipsis in Vararg Parameters - enabled
 - White Space - Insert Space - Expressions - Operators - After Prefix Operators - enabled
