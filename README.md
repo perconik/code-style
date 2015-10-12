@@ -2,7 +2,7 @@
 
 Fork of [GoogleStyle](https://code.google.com/p/google-styleguide/source/browse/trunk/eclipse-java-google-style.xml)
 Java Code Style Formatter, Clean Up and Imports Organization for Eclipse based on [Google Java Style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-guide.
+guide
 
 - Imports and static imports are both organized in several groups as specified in Eclipse import order file
 - Lines are not wrapped with exception to Javadoc text which wraps after 100 characters 
@@ -30,4 +30,4 @@ guide.
 
 ## License
 
-This software is released under the [MIT License](LICENSE.md).
+This software is released under the [MIT License](LICENSE.md)
